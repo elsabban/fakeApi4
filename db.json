@@ -2,28 +2,28 @@
     "clients": [{
         "id": "0",
         "name": "OS-FAMILY",
-        "imgArr": ["src/assets/img/os1.png", "src/assets/img/os2.png", "src/assets/img/os3.png"],
+        "imgArr": ["src/assets/img/work/os1.png", "src/assets/img/work/os2.png", "src/assets/img/work/os3.png"],
         "date": "may,2020",
         "category": "WEBSITE,MOBILE APP",
         "desc": "Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet."
     }, {
         "id": "1",
         "name": "WISEFOX MAGNETS",
-        "imgArr": ["src/assets/img/w1.png", "src/assets/img/w2.png"],
+        "imgArr": ["src/assets/img/work/w1.png", "src/assets/img/work/w2.png"],
         "date": "may,2020",
         "category": "WEBSITE",
         "desc": "Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet."
     }, {
         "id": "2",
         "name": "POWERLUBE",
-        "imgArr": ["src/assets/img/pw1.png", "src/assets/img/pw2.png", "src/assets/img/pw3.png"],
+        "imgArr": ["src/assets/img/work/pw1.png", "src/assets/img/work/.png", "src/assets/img/work/pw3.png"],
         "date": "oct,2020",
         "category": "WEBSITE",
         "desc": "Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet."
     }, {
         "id": "3",
         "name": "POS TORPEDO",
-        "imgArr": ["src/assets/img/pos.jpg"],
+        "imgArr": ["src/assets/img/work/pos.jpg"],
         "date": "oct,2020",
         "category": "POS SYSTEM",
         "desc": "Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet.Tincidunt elit magnis nulla facilisis sagittis sapien nunc amet ultrices dolores sit ipsum velit purus aliquet massa fringilla leo orci. Sapien nunc amet ultrices, dolores sit ipsum velit massa fringilla leo orci dolors sit amet elit amet."
